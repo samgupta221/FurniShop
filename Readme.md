@@ -59,21 +59,3 @@ Displays partner brands and collaborations.
 Easy access to contact information and support.
 
 ---
-
-
-## 🌟 Future Enhancements
-
-- Shopping cart functionality
-- Product filtering
-- Wishlist feature
-- User authentication
-- Payment gateway integration
-- Backend integration with database
-
----
-
-This project is open-source and available under the MIT License.
-
----
-
-⭐ If you like this project, don't forget to give it a star!
